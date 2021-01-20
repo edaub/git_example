@@ -5,3 +5,4 @@ Mountains in Wales
 * Tryfan
 * Snowdon
 * Fan y Big
+* Glyder Fawr
